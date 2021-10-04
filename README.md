@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hritish18
+- 👋 Hi, I’m Hritish!
 - 👀 I’m interested in engineering (hardware + software), entreprenuership, anything tech, & robotics.
 - 🌱 I’m currently learning project management, software (C++), entreprenership (founder).
 - 💞️ I’m looking to collaborate on software learning
